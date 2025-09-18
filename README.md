@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello there and welcome 👋
+
+🏛 My name is Daniel and I'm currently a sophomore majoring in Industrial Engineering at uni.\
+\
+🧮 In my free time, I'm learning Python and R and looking to build applications that help to implement mathematical concepts to solve real-world problems.\
+\
+📈 My interests lie in data analysis, statistical modeling, and financial simulations. I'm eager to learn and connect with others in similar fields, so looking forward to build something great with others too!
+
 
 <!--
 **danux3/danux3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,14 @@
-# Hello there and welcome 👋
+# 👋 Hello there and welcome!
 
-🏛 My name is Daniel and I'm currently a sophomore majoring in Industrial Engineering at uni.\
-\
-🧮 In my free time, I'm learning Python and R and looking to build applications that help to implement mathematical concepts to solve real-world problems.\
-\
-📈 My interests lie in data analysis, statistical modeling, and financial simulations. I'm eager to learn and connect with others in similar fields, so looking forward to build something great with others too!
+## 🗺️ About Me
+- 🐍 Currently working on improving profficiency in **Python** and 📊 **R**
+- 🏗️ Interested in building tools for research and data-driven insights
+- 🤝 Always open to collaborating on projects
+
+---
+
+✨ Thanks for visiting my profile — feel free to explore my repos!
+
 
 
 <!--
